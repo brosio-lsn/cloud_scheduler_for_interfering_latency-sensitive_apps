@@ -53,7 +53,6 @@ For more detailed technical information, please refer to the **project reports**
 ---
 
 **Authors**  
-Group 020  
 - Ambroise Aigueperse  
 - Témi Messmer  
 - Monika Multani
